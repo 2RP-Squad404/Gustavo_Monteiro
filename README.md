@@ -5,3 +5,5 @@ Nome do Estagiário: Gustavo Monteiro Gomes Pires
 - [Semana 2](relatorio/09_08.md)
 - [Semana 3](relatorio/14_08.md)
 - [Semana 4](relatorio/20_08.md)
+- [Tarefa 1](relatorio/tarefa1.md)
+- [Tarefa 2](relatorio/tarefa2.md)
